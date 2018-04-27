@@ -16,6 +16,8 @@ public class someShit {
         for(int i = 0;i<nums.length;i++)
         {
             //hello
+            //something
+
          System.out.print(" "+secondArray[i]);
         }
 
