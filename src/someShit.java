@@ -3,6 +3,7 @@ public class someShit {
 //sdfsdf
     public static void main(String args[])
     {
+        //gdf
         int[] nums = new int[]{-2, 0, 3, -5, 2, -1};
         int[] secondArray = new int[nums.length];
 
